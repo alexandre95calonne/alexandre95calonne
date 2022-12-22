@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Calonne</h1>
 <h3 align="center">Student in second year at Epitech Digital, it has been now many years that I have interest in IT and particulary in Web Development. For the moment, I prefer front-end (React/Vue) than back-end, but I'm open-minded. I'm actually looking for an intership for 4 to 6 months. Don't hesitate to contact me !</h3>
+<img align="right" alt="coding-gif" width ="400" src="https://dribbble.com/shots/15633275-Workspace">
+
 
 - 👨‍🎓 I'm actually studying at **Epitech Digital**
 
