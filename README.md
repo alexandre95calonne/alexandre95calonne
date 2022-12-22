@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre Calonne</h1>
-<iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/AVt5nJFsNG0BYfjEzW/video" width="480"></iframe>
+<div class="tenor-gif-embed" data-postid="20115397" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-bonjour-gif-20115397">Hello Bonjour GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">Student in second year at Epitech Digital, it has been now many years that I have interest in IT and particulary in Web Development. For the moment, I prefer front-end (React/Vue) than back-end, but I'm open-minded. I'm actually looking for an intership for 4 to 6 months. Don't hesitate to contact me !</h3>
 
 
