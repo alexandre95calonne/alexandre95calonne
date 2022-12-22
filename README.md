@@ -2,7 +2,7 @@
 <h3 align="center">Student in second year at Epitech Digital, it has been now many years that I have interest in IT and particulary in Web Development. For the moment, I prefer front-end (React/Vue) than back-end, but I'm open-minded. I'm actually looking for an intership for 4 to 6 months. Don't hesitate to contact me !</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<br></br>
 - 👨‍🎓 I'm actually studying at **Epitech Digital**
 
 - 🌱 I’m currently learning **React, Vue, Node...**
