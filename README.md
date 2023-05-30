@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alexandre Calonne</h1>
-<h3 align="center">Student in second year at Epitech Digital, it has been now many years that I have interest in IT and particulary in Web Development. For the moment, I prefer front-end (React/Vue) than back-end, but I'm open-minded. I'm actually looking for an intership for 4 to 6 months. Don't hesitate to contact me !</h3>
+<h3 align="center">🔍 Are you looking for a Front-End Development expert to turn your ideas into modern and captivating showcase websites that reflect your brand's identity? Look no further! As a dedicated freelance developer, I am ready to take on new projects and provide you with top-notch services. 💻</h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br></br><br/>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre95calonne&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre95calonne" /> </p>
+
 - 👨‍🎓 I'm currently studying at **Epitech Digital**
 
-- 🌱 I’m currently learning **React, Vue, Node...**
+- 🌱 I’m currently learning **Three JS, React, Node...**
 
-- 👨‍💻 All of my projects are available at [https://alexandre-calonne.fr/](https://alexandre-calonne.fr/)
+- 👨‍💻 All of my projects are available at https://alexandre95calonne.github.io/portfolio/
 
 - 📫 How to reach me **alexandre.calonne@epitech.digital**
 
