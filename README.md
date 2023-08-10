@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre95calonne&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre95calonne" /> </p>
 
-- 👨‍🎓 I'm currently studying at **Epitech Digital**
+- 👨‍🎓 I'm currently studying at **Epitech**
 
-- 🌱 I’m currently learning **Three JS, React, Node...**
+- 🌱 I’m currently learning **React, Solidity...**
 
-- 👨‍💻 All of my projects are available at https://alexandre95calonne.github.io/portfolio/
+- 👨‍💻 All of my projects are available at https://alexandre-calonne.fr
 
-- 📫 How to reach me **alexandre.calonne@epitech.digital**
+- 📫 How to reach me **alexandre.calonne95@gmail.com**
 
 <br></br><br></br><br></br>
 <h3 align="left">Connect with me:</h3>
