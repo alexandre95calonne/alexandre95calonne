@@ -5,8 +5,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre95calonne&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre95calonne" /> </p>
-
 - 👨‍🎓 I'm currently studying at **Epitech**
 
 - 🌱 I’m currently learning **React, Solidity...**
