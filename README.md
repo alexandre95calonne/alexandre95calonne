@@ -7,11 +7,13 @@
 
 - 👨‍🎓 I'm currently studying at **Epitech**
 
-- 🌱 I’m currently learning **React, Solidity...**
+- 🌱 I’m currently learning **Django, Solidity...**
 
-- 👨‍💻 All of my projects are available at https://alexandre-calonne.fr
+- 👨‍💻 All of my projects are available at **https://alexandre-calonne.fr**
 
-- 📫 How to reach me **alexandre.calonne95@gmail.com**
+- 📫 How to reach me : **alexandre.calonne@epitech.eu**
+
+- 📝 Check my **[resume](https://drive.google.com/file/d/1Z61M_zl4ndSaVY-OWF6HC46h8stii5-r/view)**
 
 <br></br><br></br><br></br>
 <h3 align="left">Connect with me:</h3>
