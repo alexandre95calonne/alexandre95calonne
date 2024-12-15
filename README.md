@@ -17,7 +17,7 @@
   - HTML5, CSS3, SASS, Tailwind CSS
   - JavaScript (ES6+)
   - React.js, Next.js
-  - **Shopify**, **Liquid**
+  - Shopify, Liquid
 - **Back-End & Databases**:
   - Node.js
   - MongoDB, Supabase
