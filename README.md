@@ -19,8 +19,7 @@
   - React.js, Next.js
   - Shopify, Liquid
 - **Back-End & Databases**:
-  - Node.js
-  - MongoDB, Supabase
+  - Supabase
 - **Tools**:
   - Git, NPM
 
