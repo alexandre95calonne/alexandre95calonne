@@ -25,7 +25,7 @@
 
 ## 📈 Some Numbers
 
-- ✅ **8 companies** successfully supported in their digital transition.
+- ✅ **9 companies** successfully supported in their digital transition.
 - ⭐️ **Customer Satisfaction**: **5/5**.
 
 ## 📫 Contact Me
@@ -39,11 +39,12 @@
 
 Check out some of our recent projects that showcase our expertise and commitment to customer satisfaction:
 
+- **Mudo Club** ([www.mudoclubargenteuil.fr/](https://www.mudoclubargenteuil.fr/))
 - **Alexandra Grey** ([www.alexandra-grey.fr/](https://www.alexandra-grey.fr/))
 - **BeeDriver** ([beedriver.fr](https://beedriver.fr))
+- **Mon Dressing Coloré** ([mondressingcolore.fr/](https://mondressingcolore.fr/))
 - **Jeff Taekwondo** ([jeff-coaching-taekwondo.fr](https://jeff-coaching-taekwondo.fr))
 - **Taxi Beauchamp** ([taxi-beauchamp.fr](https://taxi-beauchamp.fr))
-- **Eco Hydrone Cleaning** ([eco-hydrone-cleaning.next-generation.dev](https://eco-hydrone-cleaning.next-generation.dev))
 - **Laetitia Thao** ([laetitia-thao.next-generation.dev](https://laetitia-thao.next-generation.dev))
 - **Totem33** ([totem33.vercel.app/](https://totem33.vercel.app/))
 - **Webly Inspiration** ([webly-inspiration.vercel.app](https://webly-inspiration.vercel.app))
